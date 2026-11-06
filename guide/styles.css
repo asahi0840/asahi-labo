@@ -202,3 +202,5 @@ ul.avoid li::before { content: "✕"; color: #c0392b; font-weight: 700; position
   .block { padding: 22px 18px; border-radius: 10px; }
   .hero { padding: 56px 18px 64px; }
 }
+
+.closing-line{text-wrap:balance;word-break:keep-all;overflow-wrap:anywhere}
